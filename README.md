@@ -13,21 +13,19 @@
 ## À propos de moi
 Je suis développeur passionné par la création de solutions élégantes et performantes. J'aime apprendre de nouvelles technologies, participer à des projets open-source et collaborer avec d'autres développeurs.
 
-> Astuce : personnalise cette section en ajoutant ton rôle (ex. "Full-Stack", "DevOps", "Data Engineer"), ce sur quoi tu travailles actuellement et ce que tu recherches.
-
 ---
 
 ## 🛠️ Compétences
 - Langages : C, Python, Java
 - Frontend : HTML, CSS
-- Outils : Git, VScode, tests unitaires, Processing
+- Outils : Git, VScode, tests unitaires, Processing, Spyder
 
 ---
 
 ## 🚀 Projets en vedette
-- [Projet-1](https://github.com/Pekkatrol/projet-1) 
-- [Projet-2](https://github.com/Pekkatrol/projet-2)
-- [Projet-3](https://github.com/Pekkatrol/projet-3)
+- [Extinct](https://github.com/Pekkatrol/projet-1) 
+- [Game of Life](https://github.com/Pekkatrol/projet-2)
+- [Snake](https://github.com/Pekkatrol/projet-3)
 
 ---
 
