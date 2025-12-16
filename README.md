@@ -23,8 +23,9 @@ Je suis développeur passionné par la création de solutions élégantes et per
 ---
 
 ## 🚀 Projets en vedette
-- [Extinct](https://github.com/Pekkatrol/projet-1) 
-- [Game of Life](https://github.com/Pekkatrol/projet-2)
+- [Extinct](https://github.com/Pekkatrol/Extinct---GAMEJAM) 
+- [Game of Life](https://github.com/Pekkatrol/Game-of-Life)
+- [HGToTomato](https://github.com/Pekkatrol/The-Hitchhiker-s-Guide-to-the-Tomato-Minecraft-Mod)
 - [Snake](https://github.com/Pekkatrol/projet-3)
 
 ---
