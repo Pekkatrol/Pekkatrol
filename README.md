@@ -45,10 +45,5 @@ Je suis développeur passionné par la création de solutions élégantes et per
 ---
 
 ## 💡 Fun
-- 🌱 J'apprends actuellement : [le C]
+- 🌱 J'apprends actuellement : C
 
----
-
-## 🔧 Personnalisation rapide
-- Pour afficher un badge de language top (repo spécifique) : `![Top Langs](https://img.shields.io/github/languages/top/Pekkatrol/Pekkatrol?style=for-the-badge)`
-- Pour afficher les stats : `https://github-readme-stats.vercel.app/api?username=Pekkatrol&show_icons=true`
