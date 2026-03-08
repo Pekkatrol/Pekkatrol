@@ -1,50 +1,60 @@
-# Salut, moi c'est Pekkatrol 👋
+<h1 align="center">Salut, moi c'est Pekkatrol 👋</h1>
 
 <div align="center">
 
 [![Status](https://img.shields.io/badge/Status-Open%20to%20collab-brightgreen?style=for-the-badge&logo=github)](https://github.com/Pekkatrol)
-[![Top Langs](https://img.shields.io/github/languages/top/Pekkatrol/Pekkatrol?style=for-the-badge)](https://github.com/Pekkatrol/Pekkatrol)
 [![Followers](https://img.shields.io/github/followers/Pekkatrol?label=Followers&style=for-the-badge)](https://github.com/Pekkatrol?tab=followers)
+[![Epitech](https://img.shields.io/badge/École-Epitech-blue?style=for-the-badge&logo=graduation-cap)](https://www.epitech.eu/)
 
 </div>
 
 ---
 
-## À propos de moi
-Je suis développeur passionné par la création de solutions élégantes et performantes. J'aime apprendre de nouvelles technologies, participer à des projets open-source et collaborer avec d'autres[...]
+## 🙋 À propos de moi
+
+- 🎓 Étudiant à **Epitech**
+- 🤝 Ouvert à la collaboration sur des projets open-source
+- 🌱 En train d'approfondir mes connaissances en **C**
 
 ---
 
 ## 🛠️ Compétences
-- Langages : C, Python, Java
-- Frontend : HTML, CSS
-- Outils : Git, VScode, tests unitaires, Processing, Spyder
+
+**Langages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Outils**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-006699?style=flat-square&logo=processingfoundation&logoColor=white)
 
 ---
 
 ## 🚀 Projets en vedette
-- [Extinct](https://github.com/Pekkatrol/Extinct---GAMEJAM) 
-- [Game of Life](https://github.com/Pekkatrol/Game-of-Life)
-- [HGToTomato](https://github.com/Pekkatrol/The-Hitchhiker-s-Guide-to-the-Tomato-Minecraft-Mod)
-- [Snake](https://github.com/Pekkatrol/projet-3)
+
+| Projet | Description |
+|--------|-------------|
+| [🦕 Extinct](https://github.com/Pekkatrol/Extinct---GAMEJAM) | Jeu réalisé lors d'une Game Jam |
+| [🧬 Game of Life](https://github.com/Pekkatrol/Game-of-Life) | Implémentation du Jeu de la Vie de Conway |
+| [🍅 HGToTomato](https://github.com/Pekkatrol/The-Hitchhiker-s-Guide-to-the-Tomato-Minecraft-Mod) | Mod Minecraft inspiré du Guide du Voyageur |
 
 ---
 
 ## 📈 Statistiques GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pekkatrol&show_icons=true&count_private=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pekkatrol&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pekkatrol&theme=radical" alt="streak stats" />
 </div>
 
-> 
 ---
 
 ## ✉️ Contact
-- Mail : alessandro1.paris@epitech.eu
-- LinkedIn : [Alessandro PARIS](https://www.linkedin.com/in/alessandro-paris06/)
 
----
-
-## 💡 Fun
-- 🌱 J'apprends actuellement : C
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alessandro1.paris@epitech.eu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-paris06/)
