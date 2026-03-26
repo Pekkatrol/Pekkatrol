@@ -15,6 +15,7 @@
 - 🎓 Étudiant à **Epitech**
 - 🤝 Ouvert à la collaboration sur des projets open-source
 - 🌱 En train d'approfondir mes connaissances en **C**
+- En train d'apprendre le **Go**
 
 ---
 
