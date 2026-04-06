@@ -48,6 +48,21 @@
 
 ---
 
+## Projets en Go
+
+| Projet | Description |
+|--------|-------------|
+| [Greet user in Go](https://github.com/Pekkatrol/Greet-user-in-Golang) | Greeting user program |
+| [Password generator in Go](https://github.com/Pekkatrol/Password-generator-Golang)|Password generator program |
+| [Text analysis in Go](https://github.com/Pekkatrol/text-analyse-golang) |text analysis program |
+| [Hangman in Go](https://github.com/Pekkatrol/hangman-golang) |Hangman game |
+| [Dice simulation in Go](https://github.com/Pekkatrol/dice-simulation) |Sum of dice, in a simulation |
+| [Timer in Go](https://github.com/Pekkatrol/timer) |Timer program |
+| [Conversion in Go](https://github.com/Pekkatrol/conversion-go) |Converter of distance, weight and temperature |
+| [Number guesser in Go](https://github.com/Pekkatrol/number-guesser-go) |Game to guess a number |
+
+---
+
 ## 📈 Statistiques GitHub
 
 <div align="center">
